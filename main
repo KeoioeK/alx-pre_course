@@ -1,0 +1,6 @@
+Merge made by the 'recursive' strategy.
+ 0x01-git/bash/98     | 0
+ 0x01-git/bash/alx    | 2 +-
+ 0x01-git/bash/school | 2 +-
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 0x01-git/bash/98
